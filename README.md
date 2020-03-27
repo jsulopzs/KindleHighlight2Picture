@@ -12,4 +12,4 @@ This Python script will allow you to create a picture out of a note. All you nee
 8. Write down a name for the file and that's it. You can see your file in the same folder where you downloaded the Python script from step 1.
 
 ## Final Result
-![](dollar strength.png)
+![note to picture](picture.png)
