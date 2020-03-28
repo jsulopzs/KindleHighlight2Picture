@@ -13,3 +13,6 @@ This Python script will allow you to create a picture out of a note. All you nee
 
 ## Final Result
 ![note to picture](picture.png)
+
+## References
+https://haptik.ai/tech/putting-text-on-images-using-python-part2/ the code to wrap into multiple lines depending on max_width comes from here.
